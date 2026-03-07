@@ -15,7 +15,7 @@ python cliente.py
 
 
 # Tecnologias:
-Python 3
+Python 3 x
 Sockets (TCP)
 Threading (para lidar com múltiplos clientes simultâneos)
 Tkinter (interface gráfica)
