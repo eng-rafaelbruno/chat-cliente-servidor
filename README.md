@@ -1,3 +1,5 @@
+<img width="1115" height="484" alt="image" src="https://github.com/user-attachments/assets/79bd7a82-1ac0-4167-9d5e-11bc963507ff" />
+
 # Chat Cliente-Servidor
 
 Este projeto é uma aplicação de chat desenvolvida em Python utilizando Sockets TCP, Threads e Interface Gráfica com Tkinter. O sistema permite que múltiplos usuários se conectem ao mesmo servidor e troquem mensagens em tempo real.
